@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [1672-richest-customer-wealth](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 ## Matrix
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
+## Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+## Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 <!---LeetCode Topics End-->
