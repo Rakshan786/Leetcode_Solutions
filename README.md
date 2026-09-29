@@ -25,8 +25,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0876-middle-of-the-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 ## Sorting
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
