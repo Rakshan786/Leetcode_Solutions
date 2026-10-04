@@ -46,7 +46,7 @@ class Solution {
         }
     }
     public Node copyRandomList(Node head) {
-        //method1
+        //method1-tc[O(n)],sc-[O(n)] no extra space
         if(head==null) return head;
         //s1-create a deep copy
         Node head2=deepCopy(head);
@@ -58,7 +58,7 @@ class Solution {
         split(head,head2);
         return head2;
 
-        //method2-hashmap
+        //method2-hashmap(tc,sc->same)
         // Map<Node,Node> map=new HashMap<>();
         // Node curr=head;
         // while(curr!=null){
