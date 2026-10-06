@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0143-reorder-list) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Math
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 ## Bracket Sequences
 |  |
 | ------- |
