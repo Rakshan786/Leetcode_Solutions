@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0155-min-stack) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Math
 |  |
@@ -132,11 +133,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0020-valid-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 ## Monotonic Stack
 |  |
 | ------- |
