@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
+| [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
@@ -153,4 +155,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0155-min-stack) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
