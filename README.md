@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1672-richest-customer-wealth](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Matrix
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 ## Greedy
 |  |
 | ------- |
