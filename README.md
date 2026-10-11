@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 ## Matrix
 |  |
 | ------- |
@@ -164,4 +165,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
