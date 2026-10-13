@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Timsort
 |  |
 | ------- |
