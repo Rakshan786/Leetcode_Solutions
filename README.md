@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Matrix
 |  |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
 | ------- |
@@ -197,4 +199,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0148-sort-list) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
