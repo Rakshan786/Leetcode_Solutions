@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3895-count-digit-appearances](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Matrix
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
+| [3895-count-digit-appearances](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
 | ------- |
