@@ -31,22 +31,36 @@ class Solution {
         // }
         // return true;
 
+        //method-2
         //slow fast
-        ListNode slow=head;
-        ListNode fast=head;
-        while(fast!=null && fast.next!=null){
-            slow=slow.next;
-            fast=fast.next.next;
+        // ListNode slow=head;
+        // ListNode fast=head;
+        // while(fast!=null && fast.next!=null){
+        //     slow=slow.next;
+        //     fast=fast.next.next;
+        // }
+        // if(fast!=null){
+        //     slow=slow.next;
+        // }
+        // ListNode j=reverseList(slow);
+        // ListNode i=head;
+        // while(j!=null){
+        //     if(i.val!=j.val) return false;
+        //     i=i.next;
+        //     j=j.next;
+        // }
+        // return true;
+
+        //method-3
+        Stack<ListNode> reverse=new Stack<>();
+        ListNode dummy=head;
+        while(dummy!=null){
+            reverse.push(dummy);
+            dummy=dummy.next;
         }
-        if(fast!=null){
-            slow=slow.next;
-        }
-        ListNode j=reverseList(slow);
-        ListNode i=head;
-        while(j!=null){
-            if(i.val!=j.val) return false;
-            i=i.next;
-            j=j.next;
+        while(head!=null && !reverse.isEmpty()){
+            if(reverse.pop().val!=head.val) return false;
+            else head=head.next;
         }
         return true;
     }
