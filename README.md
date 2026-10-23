@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1688-count-of-matches-in-tournament](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
 | [2396-strictly-palindromic-number](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
+| [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [3895-count-digit-appearances](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Greedy
 |  |
@@ -225,4 +226,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+## Number Theory
+|  |
+| ------- |
+| [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 <!---LeetCode Topics End-->
