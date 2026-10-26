@@ -1,6 +1,7 @@
 class Solution {
     public int calculateScore(int a,int b) {
-        int s1=0,s2=0;
+        int s1=0;
+        int s2=0;
         while(a>0){
             if(a%2==1)
             s1++;
