@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0191-number-of-1-bits](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 ## Merge Sort
 |  |
 | ------- |
@@ -234,5 +235,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0191-number-of-1-bits](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0191-number-of-1-bits) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
