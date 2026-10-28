@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1672-richest-customer-wealth](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0540-single-element-in-a-sorted-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Number Theory
 |  |
