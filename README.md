@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0575-distribute-candies](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0575-distribute-candies) |
+| [0739-daily-temperatures](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0946-validate-stack-sequences](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1672-richest-customer-wealth](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1672-richest-customer-wealth) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0234-palindrome-linked-list) |
 | [0394-decode-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0394-decode-string) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [0946-validate-stack-sequences](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0946-validate-stack-sequences) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
+| [0739-daily-temperatures](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0739-daily-temperatures) |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 ## Range Minimum/Maximum Query
 |  |
