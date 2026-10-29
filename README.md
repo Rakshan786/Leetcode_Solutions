@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0561-array-partition](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0055-jump-game) |
 ## Enumeration
 |  |
 | ------- |
