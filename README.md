@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0055-jump-game) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0561-array-partition) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
