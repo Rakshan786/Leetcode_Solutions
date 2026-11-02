@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0334-increasing-triplet-subsequence](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0503-next-greater-element-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0503-next-greater-element-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0561-array-partition](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0561-array-partition) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0016-3sum-closest](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0016-3sum-closest) |
 | [0148-sort-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0148-sort-list) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0561-array-partition](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0561-array-partition) |
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
@@ -147,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0002-add-two-numbers) |
 | [0412-fizz-buzz](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0412-fizz-buzz) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [1688-count-of-matches-in-tournament](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1688-count-of-matches-in-tournament) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1822-sign-of-the-product-of-an-array) |
