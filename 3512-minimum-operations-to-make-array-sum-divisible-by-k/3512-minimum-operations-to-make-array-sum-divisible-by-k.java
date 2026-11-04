@@ -1,9 +1,9 @@
 class Solution {
     public int minOperations(int[] nums, int k) {
-        int sum=0;
+        int s=0;
         for(int num:nums){
-            sum+=num;
+            s+=num;
         }
-        return sum%k;
+        return s%k;
     }
 }
