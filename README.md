@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3701-compute-alternating-sum](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2396-strictly-palindromic-number](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2396-strictly-palindromic-number) |
 | [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3895-count-digit-appearances](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Greedy
