@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [0575-distribute-candies](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0575-distribute-candies) |
 | [1748-sum-of-unique-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1748-sum-of-unique-elements) |
+| [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Counting
 |  |
@@ -90,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Linked List
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+## Sliding Window
+|  |
+| ------- |
+| [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 <!---LeetCode Topics End-->
