@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2390-removing-stars-from-a-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3110-score-of-a-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3110-score-of-a-string) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Bracket Sequences
 |  |
