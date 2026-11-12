@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3644-maximum-k-to-sort-a-permutation) |
