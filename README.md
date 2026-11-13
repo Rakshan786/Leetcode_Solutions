@@ -172,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3783-mirror-distance-of-an-integer](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
 | [3895-count-digit-appearances](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3895-count-digit-appearances) |
 ## Greedy
