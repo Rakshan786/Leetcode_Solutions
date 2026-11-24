@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
 | [3467-transform-array-by-parity](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3467-transform-array-by-parity) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3783-mirror-distance-of-an-integer) |
@@ -271,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Brainteaser
 |  |
 | ------- |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -321,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Prefix Sum
 |  |
 | ------- |
