@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2413-smallest-even-multiple) |
 | [2769-find-the-maximum-achievable-number](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2769-find-the-maximum-achievable-number) |
 | [2807-insert-greatest-common-divisors-in-linked-list](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2807-insert-greatest-common-divisors-in-linked-list) |
+| [3360-stone-removal-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
@@ -227,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2181-merge-nodes-in-between-zeros](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2181-merge-nodes-in-between-zeros) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2390-removing-stars-from-a-string) |
+| [3360-stone-removal-game](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3701-compute-alternating-sum) |
 ## String
 |  |
