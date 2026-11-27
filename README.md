@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1944-number-of-visible-people-in-a-queue](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1944-number-of-visible-people-in-a-queue) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2161-partition-array-according-to-given-pivot](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2161-partition-array-according-to-given-pivot) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2747-count-zero-request-servers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2747-count-zero-request-servers) |
 | [3446-sort-matrix-by-diagonals](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3446-sort-matrix-by-diagonals) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0881-boats-to-save-people) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1561-maximum-number-of-coins-you-can-get](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1561-maximum-number-of-coins-you-can-get) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2567-minimum-score-by-changing-two-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3789-minimum-cost-to-acquire-required-items](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3789-minimum-cost-to-acquire-required-items) |
@@ -276,6 +279,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Brainteaser
@@ -335,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1352-product-of-the-last-k-numbers](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1769-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/1769-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2171-removing-minimum-number-of-magic-beans](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/2171-removing-minimum-number-of-magic-beans) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Rakshan786/Leetcode_Solutions/tree/master/3364-minimum-positive-sum-subarray) |
 ## Data Stream
 |  |
